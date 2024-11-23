@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="855093a5-5c3d-4edc-89e2-4225e7d0b534" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kata_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/software/ulpgc/kata2/Title.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/Title.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/TitleDeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/TitleReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -37,7 +34,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/maria/IdeaProjects/kata2/kata_2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,6 +47,37 @@
       <option name="presentableId" value="Default" />
       <updated>1732359191001</updated>
     </task>
+    <task id="LOCAL-00001" summary="The class Title is created with id, titleType and primaryTitle. We also add two enums, titleType and Genres">
+      <created>1732362116216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732362116216</updated>
+    </task>
+    <task id="LOCAL-00002" summary="We create the interfaces TitleDeserializer and TitleReader and complete them. The class TsvTitleDeserializer is created">
+      <created>1732381655661</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732381655661</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The class Title is created with id, titleType and primaryTitle. We also add two enums, titleType and Genres" />
+    <MESSAGE value="We create the interfaces TitleDeserializer and TitleReader and complete them. The class TsvTitleDeserializer is created" />
+    <option name="LAST_COMMIT_MESSAGE" value="We create the interfaces TitleDeserializer and TitleReader and complete them. The class TsvTitleDeserializer is created" />
   </component>
 </project>
