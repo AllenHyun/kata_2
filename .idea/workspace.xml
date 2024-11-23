@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="855093a5-5c3d-4edc-89e2-4225e7d0b534" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/TitleDeserializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/TitleReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/TsvFileTitleReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +60,49 @@
       <option name="project" value="LOCAL" />
       <updated>1732381655661</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="We create the interfaces TitleDeserializer and TitleReader and complete them. The class TsvTitleDeserializer is created">
+      <created>1732381889343</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732381889343</updated>
+    </task>
+    <task id="LOCAL-00004" summary="we add methods to the class TsvTitleDeserializer">
+      <created>1732382277796</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732382277796</updated>
+    </task>
+    <task id="LOCAL-00005" summary="we create and add methods to the class TsvFileTitleReader">
+      <created>1732383986280</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732383986280</updated>
+    </task>
+    <task id="LOCAL-00006" summary="we create and add methods to the class TsvFileTitleReader and the class Main is created">
+      <created>1732385479773</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732385479773</updated>
+    </task>
+    <task id="LOCAL-00007" summary="we create and add methods to the class TsvFileTitleReader and the class Main is created">
+      <created>1732385597068</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732385597068</updated>
+    </task>
+    <task id="LOCAL-00008" summary="we create and add methods to the class TsvFileTitleReader">
+      <created>1732385690226</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732385690226</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +119,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The class Title is created with id, titleType and primaryTitle. We also add two enums, titleType and Genres" />
     <MESSAGE value="We create the interfaces TitleDeserializer and TitleReader and complete them. The class TsvTitleDeserializer is created" />
-    <option name="LAST_COMMIT_MESSAGE" value="We create the interfaces TitleDeserializer and TitleReader and complete them. The class TsvTitleDeserializer is created" />
+    <MESSAGE value="we add methods to the class TsvTitleDeserializer" />
+    <MESSAGE value="we create and add methods to the class TsvFileTitleReader and the class Main is created" />
+    <MESSAGE value="we create and add methods to the class TsvFileTitleReader" />
+    <option name="LAST_COMMIT_MESSAGE" value="we create and add methods to the class TsvFileTitleReader" />
   </component>
 </project>
